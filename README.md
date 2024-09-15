@@ -1,5 +1,5 @@
-# ASP.Net-Challenge
-# MyTrendApp
+# MyTrendApp 
+### ASP.NET com deploy em nuvem pública da Azure
 
 ## Descrição
 **MyTrendApp** é uma API .NET para o projeto **My Trend**, uma solução inovadora voltada para o mercado da moda. A aplicação oferece diversos serviços como avaliação de produtos, recomendação de looks, gestão de roupas e pedidos, entre outros.
