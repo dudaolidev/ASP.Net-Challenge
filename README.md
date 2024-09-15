@@ -23,7 +23,7 @@ Para executar e testar a aplicação localmente, você precisa ter:
 
 ### 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/dudaolidev/ASP.Net-Challenge.git
 ````
 ## 2. Configurar a conexão com o banco de dados:
 
